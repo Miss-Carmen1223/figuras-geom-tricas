@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>GRUPO_1</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <imaxe>Diapositiva1.PNG</imaxe>
+              <forma>3</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>38</tipo>
+              <imaxe>Diapositiva2.PNG</imaxe>
+              <forma>3</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="3" >
+              <tipo>38</tipo>
+              <imaxe>Diapositiva3.PNG</imaxe>
+              <forma>3</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="4" >
+              <tipo>38</tipo>
+              <imaxe>Diapositiva4.PNG</imaxe>
+              <forma>3</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="5" >
+              <tipo>38</tipo>
+              <imaxe>Diapositiva5.PNG</imaxe>
+              <forma>3</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="6" >
+              <tipo>38</tipo>
+              <imaxe>Diapositiva6.PNG</imaxe>
+              <forma>3</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="7" >
+              <tipo>38</tipo>
+              <imaxe>Diapositiva7.PNG</imaxe>
+              <forma>3</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="8" >
+              <tipo>38</tipo>
+              <imaxe>Diapositiva8.PNG</imaxe>
+              <forma>3</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="9" >
+              <tipo>11</tipo>
+              <modo>3</modo>
+              <cousa nome="CIRCULO">Circulo.png</cousa>
+              <cousa nome="RECTANGULO">Rectangulo.png</cousa>
+              <cousa nome="TRIANGULO">Triangulo.png</cousa>
+              <cousa nome="CUADRADO">Cuadrado.png</cousa>
+        </paxina>
+        <paxina id="10" >
+              <tipo>38</tipo>
+              <imaxe>Diapositiva9.PNG</imaxe>
+              <forma>3</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="11" >
+              <tipo>1</tipo>
+              <imaxe>Diapositiva9.PNG</imaxe>
+              <resp texto="" valor="1">RECTANGULO</resp>
+              <resp texto="" valor="0">TRIANGULO</resp>
+              <resp texto="" valor="1">CIRCULOS</resp>
+              <resp texto="" valor="0">CUADRADO</resp>
+        </paxina>
+        <paxina id="12" >
+              <tipo>38</tipo>
+              <imaxe>Diapositiva10.PNG</imaxe>
+              <forma>3</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="13" >
+              <tipo>39</tipo>
+              <modo>1</modo>
+            <parellas imaxe="Imagen_de_WhatsApp_2025-04-28_a_las_20.45.53_ae02d9fb.jpg" texto="CIRCULO">Imagen_de_WhatsApp_2025-04-28_a_las_20.45.52_dfcafb29.jpg</parellas>
+              <parellas imaxe="Imagen_de_WhatsApp_2025-04-28_a_las_20.45.53_6f232413.jpg" texto="RECTANGULO">Imagen_de_WhatsApp_2025-04-28_a_las_20.45.53_0f5f1593.jpg</parellas>
+              <parellas imaxe="Imagen_de_WhatsApp_2025-04-28_a_las_20.45.53_36479564.jpg" texto="CUADRADO">Imagen_de_WhatsApp_2025-04-28_a_las_20.45.53_091c8dfd.jpg</parellas>
+              <parellas imaxe="Imagen_de_WhatsApp_2025-04-28_a_las_20.45.53_1af1e7f2.jpg" texto="TRIANGULO">Imagen_de_WhatsApp_2025-04-28_a_las_20.45.53_112c2083.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+              <tempo>40</tempo>
+        </paxina>
+        <paxina id="14" >
+              <tipo>38</tipo>
+              <imaxe>Diapositiva11.PNG</imaxe>
+              <forma>3</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="15" >
+              <tipo>14</tipo>
+              <peza imaxe="" texto="CIRCULO" son="">Circulo.png</peza>
+              <peza imaxe="" texto="CUADRADO" son="">Cuadrado.png</peza>
+              <peza imaxe="" texto="RECTÁNGULO" son="">Rectangulo.png</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="16" >
+              <tipo>38</tipo>
+              <imaxe>Diapositiva12.PNG</imaxe>
+              <forma>3</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="17" >
+              <tipo>24</tipo>
+              <etiqueta imaxe="act_12_C1.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="Act_12_cd.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="Act_12_R1.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="act_12_R2.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="Act_12_T2.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="act_12_C2.jpg" texto="">1</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+    </libro>
+</lim>
